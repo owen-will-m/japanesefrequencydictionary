@@ -1,0 +1,150 @@
+
+の no p. case of; in; at; for; by
+彼はこの大学の学生だ。— He is a student
+at this university.
+47078 | 0.98 | BK
+に ni p. case at; on; in; to; for
+私は大阪に住んでいます。— I live in
+Osaka.
+32231 | 1.00 | BK
+は wa p. TOPIC
+好きなスポーツはテニスです。— My favorite
+sport is tennis.
+31572 | 1.00 | BK
+た ta aux. PAST
+昨日、彼を見ましたか。— Did you see him
+yesterday?
+31549 | 0.98 | BK
+を o p. case ACCUSATIVE
+彼は毎晩ビールを飲む。— He drinks beer
+every night.
+29120 | 0.99 | BK
+だ da aux. COPULA
+僕は英語が苦手だ。— I’m not good at
+English.
+27686 | 0.99 | BK
+が ga p. case NOMINATIVE
+こちらが私の妻です。— This is my wife.
+26904 | 1.00 | BK
+て te p. conj. REASON
+お金がなくて、海外旅行できない。—
+I don’t have money so I can’t travel abroad.
+22523 | 0.96
+と to p. case and; or; with; if
+彼とレストランへ行った。— I went to a
+restaurant with my boyfriend.
+18509 | 1.00 | BK
+ます masu aux. POLITE (after verb)
+来週京都へ行きます。— I will go to Kyoto
+next week.
+16855 | 0.95
+も mo p. too, also
+彼が行くなら、私も行きます。— If he is
+going, I will go too.
+16147 | 0.97
+
+で de p. case in; at; from; by
+東京駅で彼女に会った。— I met her at
+Tokyo station.
+14058 | 1.00 | BK
+ている，てる te iru, teru cp. CONTINUATION
+雨が降っている。— It’s raining.
+13555 | 0.99
+です desu aux. COPULA (polite)
+彼は独身です。— He is single.
+9828 | 0.83 | WB
+れる reru aux. PASSIVE
+日本で使われている通貨は円です。— The
+currency used in Japan is yen.
+9234 | 0.99 | BK
+という, つう to iu, to yuu, tsuu cp. called, named
+太郎という男の子を知っていますか。— Do
+you know a boy called Taro?
+9073 | 0.80
+事 koto n. thing
+今年はいろいろな事があった。— All kinds
+of things happened this year.
+8747 | 0.96
+えー, ええ ee interj. eh?, what?; well, yes
+あの人は、えー、ちょっと名前が思い出せません。— That man is . . . , well I cannot
+remember his name.
+ええ、そうです。— Right.
+8636 | 0.07 | SP
+言う iu, yuu v. say, speak, talk
+はっきり言うと、あなたの言っていることは無意味です。— Frankly speaking, you are
+talking nonsense.
+8549 | 0.91
+のです，んです no desu, n desu cp.
+ASSERTION (polite)
+どうしたんですか。— What’s the matter?
+8439 | 0.71
+あの，あのう，あのー ano, anoo interj. Excuse me; uh, eh, um, ah, er
+あの、ちょっとお聞きしたいんですが、バス乗
+り場はどこですか。— Excuse me, could you
+tell me where the bus stop is?
+8431 | 0.00 | SP
+
+
+する suru v. do; make
+仕事をしなければなりません。— I have to
+do my work.
+7644 | 0.99
+まー，まあ maa interj. Wow!, Oh my God!
+まー、なんて素晴らしいんでしょう。— Wow!
+That’s amazing!
+6950 | 0.04 | SP
+の no p. POSSESSIVE
+彼が言ったのは本当だ。— What he said is
+true.
+6883 | 0.95
+ある aru v. be (existence), have (possession), happen, occur
+彼の報告書は問題がある。— His report has
+some problems.
+6496 | 0.98
+ね ne p. disc. isn’t it?, don’t you?
+いい天気ですね。— It’s a nice day, isn’t it?
+6282 | 0.70
+ない nai aux. not
+彼は朝ごはんを食べない。— He doesn’t
+have breakfast.
+6253 | 0.98
+なる naru v. become, get; come to do, start to do; turn into
+彼は金持ちになるでしょう。— He will
+become rich.
+5977 | 0.99
+か ka p. disc. QUESTION
+コーヒーか紅茶はいかがですか。— Would
+you like some coffee or tea?
+5594 | 0.91
+
+その sono adn. that
+そのカバンを取ってくれませんか。— Can
+you pass me that bag?
+5546 | 0.95 | BK
+けれど keredo conj. though, although
+このアパートはあまり良くないけれど安い。
+This apartment is cheap, though it’s not so nice.
+5293 | 0.64
+から kara p. case from
+ここからその店までは遠い。— The shop is
+a long way from here.
+4740 | 1.00
+よう you aux. INDUCEMENT
+一緒にDVDを見よう。— Let’s watch a DVD
+together.
+4638 | 0.97 | BK
+思う omou v. think, believe; feel; expect
+私はそう思いません。— I don’t think so.
+4599 | 0.88
+で de conj. so, then
+で、あの話はどうなりましたか？ — So what
+happened about the story you mentioned?
+4412 | 0.15 | SP
+か ka p. if; or
+誰か来たようだ。— It seems that someone
+has come.
+4308 | 0.94
+が ga p. conj. ADVERSATIVE
+いい天気だが、風が冷たい。— It’s a sunny
+day but the wind is chilly.
+4168 | 0.96
